@@ -30,7 +30,7 @@ function johnLennonFacts(array) {
 }
 johnLennonFacts(array);
 
-function iLoveTheBestles(num) {
+function iLoveTheBeatles(num) {
   var arr = [];
   
   do {

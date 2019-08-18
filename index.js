@@ -12,7 +12,7 @@ function theBeatlesPlay(musicians, instruments) {
   return combinations;
 }
 
-console.log(theBeatlesPlay(musicians, instruments));
+
 
 
 const facts = [

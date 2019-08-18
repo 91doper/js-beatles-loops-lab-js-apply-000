@@ -5,11 +5,11 @@
 theBeatlesPlay(musicians, instruments);
 
 function theBeatlesPlay(musicians, instruments) {
-  var array = [];
+  var newArr = [];
   for (var i = 0; i < musicians.length; i++) {
-    array.push(musicians[i] + ' plays ' + instuments[i]);
+    newArr.push(musicians[i] + ' plays ' + instuments[i]);
   }
-  return array;
+  return newArr;
 }
 
 
